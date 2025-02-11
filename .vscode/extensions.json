@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "github.vscode-github-actions"
+    ]
+}
